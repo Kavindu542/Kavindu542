@@ -44,13 +44,9 @@
 
 <br/>
 
-<img align="right" src="assets/about-avatar.svg" width="240" height="240" alt="Kavindu Senarathna — Full-Stack Developer, circular portrait with HUD-style ring" style="margin: 0 0 8px 20px;" />
-
 <p align="left"><sub><samp>PROFESSIONAL PROFILE</samp></sub></p>
 
 <p align="left">Results-driven <strong>Full-Stack Developer</strong> and Software Engineering graduate intern, building and shipping <strong>production-grade web applications</strong> with an emphasis on scalable architecture, clean delivery, and maintainable code. Completed a <strong>6-month Software Engineering internship</strong> at <strong>Sri Lanka Telecom (Digital Platforms)</strong>, contributing to live digital platforms and internal systems using modern full-stack practices. Strong in the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Java</strong>, <strong>Python</strong>, and <strong>RESTful API</strong> design, with day-to-day alignment to <strong>Agile/Scrum</strong>, <strong>Git</strong>-based collaboration, and <strong>CI/CD</strong> pipelines. Pursuing <strong>BSc (Hons) in Information Technology at SLIIT</strong> (3rd Year, 2nd Semester), targeting <strong>Software Engineer</strong> or <strong>Associate Software Engineer</strong> roles focused on reliable, end-to-end product delivery.</p>
-
-<br clear="right"/>
 
 ---
 
