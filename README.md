@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavindu%20Senarathna&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=58&descSize=18&descColor=a0a0c0&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavindu%20Senarathna&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=a0a0c0&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -41,7 +40,7 @@ focus:
 currently_learning:
   - Advanced TypeScript patterns
   - System design & architecture
-  - Cloud deployment
+  - Cloud deployment (AWS / GCP)
 
 interests:
   - Android native development (Kotlin)
@@ -49,7 +48,7 @@ interests:
   - Open source contributions
 
 open_to    : Remote opportunities worldwide
-` ` `
+```
 
 <br clear="right"/>
 
@@ -90,13 +89,14 @@ open_to    : Remote opportunities worldwide
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools & Platforms**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -127,12 +127,12 @@ open_to    : Remote opportunities worldwide
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🏥 **Hospital Management System** | JavaScript · Node.js · MySQL | Automated patient registration, appointments & real-time medical records |
+| 🏥 **Hospital Management System** | JavaScript · Node.js · MySQL | Automated patient registration, appointments & real-time records |
 | 💰 **Finance Tracker App** | Kotlin · Android | Multi-currency (USD/EUR/GBP/INR), budget goals & spending analytics |
 | 🏨 **Hotel Reservation System** | JavaScript · Express | Full booking platform with admin panel for listings & management |
 | 📚 **Library Management System** | JavaScript | End-to-end library operations with clean, intuitive UI |
-| ✅ **MCQ Checker** | Vue.js | Smart automated multiple-choice answer checker |
-| 🔤 **Transliteration Tests** | TypeScript | Language transliteration testing suite |
+| ✅ **MCQ Checker** | Vue.js | Smart automated answer checker for multiple-choice exams |
+| 🔤 **Transliteration Tests** | TypeScript | Language transliteration engine with test coverage |
 
 ---
 
@@ -140,44 +140,49 @@ open_to    : Remote opportunities worldwide
 
 <div align="center">
 
-| | |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavindu542&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kavindu542&layout=compact&theme=tokyonight&hide_border=true) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindu542&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavindu542&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
-
-## ✨ &nbsp;Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake.svg" />
-</picture>
-
----
-
-<div align="center">
-
-*💡 "First, solve the problem. Then, write the code." — John Johnson*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavindu542&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu542&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/>
 
-**Thanks for visiting! Let's connect and build something great together 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindu542&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
+---
 
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavindu542&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" />
+</div>
+
+---
+
+## 📈 &nbsp;Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindu542&theme=tokyo-night&hide_border=true&radius=8" width="95%" />
+</div>
+
+---
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22&fontSize=14&fontColor=a0a0c0&fontAlignY=55&animation=twinkling" width="100%" />
+
+**Thanks for stopping by — let's build something great together** 🚀
+
+</div>
