@@ -44,7 +44,7 @@
 
 <br/>
 
-<img align="right" src="assets/kavindu-profile.png" width="200" height="200" alt="Kavindu Senarathna — Full-Stack Developer" style="border-radius: 50%; object-fit: cover; border: 2px solid #6C63FF; margin: 0 0 8px 20px;" />
+<img align="right" src="assets/about-avatar.svg" width="240" height="240" alt="Kavindu Senarathna — Full-Stack Developer, circular portrait with HUD-style ring" style="margin: 0 0 8px 20px;" />
 
 <p align="left"><sub><samp>PROFESSIONAL PROFILE</samp></sub></p>
 
@@ -106,33 +106,67 @@
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Kavindu542/Hospital-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu542&repo=Hospital-Management-System&theme=tokyonight&border_radius=10&hide_border=true" />
-</a>
-<a href="https://github.com/Kavindu542/Finance-Tracker-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu542&repo=Finance-Tracker-App&theme=tokyonight&border_radius=10&hide_border=true" />
-</a>
-<a href="https://github.com/Kavindu542/Hotel-Reservation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu542&repo=Hotel-Reservation&theme=tokyonight&border_radius=10&hide_border=true" />
-</a>
-<a href="https://github.com/Kavindu542/MCQ-Checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu542&repo=MCQ-Checker&theme=tokyonight&border_radius=10&hide_border=true" />
-</a>
-
-</div>
+<p align="left"><sub><samp>SELECTED WORK — CLICK A TITLE OR ICON TO OPEN THE REPO</samp></sub></p>
 
 <br/>
 
-| Project                           | Stack                        | Highlight                                                           |
-| --------------------------------- | ---------------------------- | ------------------------------------------------------------------- |
-| 🏥 **Hospital Management System** | JavaScript · Node.js · MySQL | Automated patient registration, appointments & real-time records    |
-| 💰 **Finance Tracker App**        | Kotlin · Android             | Multi-currency (USD/EUR/GBP/INR), budget goals & spending analytics |
-| 🏨 **Hotel Reservation System**   | JavaScript · Express         | Full booking platform with admin panel for listings & management    |
-| 📚 **Library Management System**  | JavaScript                   | End-to-end library operations with clean, intuitive UI              |
-| ✅ **MCQ Checker**                | Vue.js                       | Smart automated answer checker for multiple-choice exams            |
-| 🔤 **Transliteration Tests**      | TypeScript                   | Language transliteration engine with test coverage                  |
+### 🏥 [Hospital Management System](https://github.com/Kavindu542/Hospital-Management-System)
+
+<a href="https://github.com/Kavindu542/Hospital-Management-System"><img align="right" width="64" height="64" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="border-radius: 50%; border: 2px solid #30363d; background: #0d1117; padding: 10px; box-sizing: border-box;" /></a>
+
+<p align="left">Full-stack healthcare tooling with <strong>JavaScript</strong>, <strong>Node.js</strong>, and <strong>MySQL</strong>, centered on <strong>patient registration</strong>, <strong>appointments</strong>, and <strong>live records</strong> so day-to-day hospital workflows stay fast and traceable.</p>
+
+<br clear="right"/>
+
+<br/>
+
+### 💰 [Finance Tracker App](https://github.com/Kavindu542/Finance-Tracker-App)
+
+<a href="https://github.com/Kavindu542/Finance-Tracker-App"><img align="right" width="64" height="64" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="border-radius: 50%; border: 2px solid #30363d; background: #0d1117; padding: 10px; box-sizing: border-box;" /></a>
+
+<p align="left">Native-style <strong>Android</strong> experience in <strong>Kotlin</strong> with <strong>multi-currency</strong> support (USD, EUR, GBP, INR), <strong>budget goals</strong>, and <strong>spending analytics</strong> aimed at personal finance clarity on mobile.</p>
+
+<br clear="right"/>
+
+<br/>
+
+### 🏨 [Hotel Reservation System](https://github.com/Kavindu542/Hotel-Reservation)
+
+<a href="https://github.com/Kavindu542/Hotel-Reservation"><img align="right" width="64" height="64" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="border-radius: 50%; border: 2px solid #30363d; background: #0d1117; padding: 10px; box-sizing: border-box;" /></a>
+
+<p align="left"><strong>JavaScript</strong> and <strong>Express</strong>-backed booking flow with an <strong>admin panel</strong> for listings, availability, and reservations—structured as a small product-style web app rather than a demo-only API.</p>
+
+<br clear="right"/>
+
+<br/>
+
+### 📚 [Library Management](https://github.com/Kavindu542/Library-Management)
+
+<a href="https://github.com/Kavindu542/Library-Management"><img align="right" width="64" height="64" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="border-radius: 50%; border: 2px solid #30363d; background: #0d1117; padding: 10px; box-sizing: border-box;" /></a>
+
+<p align="left">End-to-end <strong>library operations</strong> in <strong>JavaScript</strong> with a clean, task-driven UI for catalogs, lending, and day-to-day staff actions without unnecessary complexity.</p>
+
+<br clear="right"/>
+
+<br/>
+
+### ✅ [MCQ Checker](https://github.com/Kavindu542/MCQ-Checker)
+
+<a href="https://github.com/Kavindu542/MCQ-Checker"><img align="right" width="64" height="64" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="border-radius: 50%; border: 2px solid #30363d; background: #0d1117; padding: 10px; box-sizing: border-box;" /></a>
+
+<p align="left"><strong>Vue.js</strong> app that <strong>automates multiple-choice grading</strong> with predictable rules and a focused interface—built to cut manual checking time for exams and practice sets.</p>
+
+<br clear="right"/>
+
+<br/>
+
+### 🔤 [Transliteration tests](https://github.com/Kavindu542/transliteration-tests)
+
+<a href="https://github.com/Kavindu542/transliteration-tests"><img align="right" width="64" height="64" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="border-radius: 50%; border: 2px solid #30363d; background: #0d1117; padding: 10px; box-sizing: border-box;" /></a>
+
+<p align="left"><strong>TypeScript</strong> work around a <strong>language transliteration</strong> engine with <strong>tests and coverage</strong>, emphasizing correctness and maintainability for text-processing logic.</p>
+
+<br clear="right"/>
 
 ---
 

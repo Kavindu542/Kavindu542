@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 280 280" role="img" aria-label="Kavindu Senarathna">
+  <defs>
+    <radialGradient id="aboutBg" cx="50%" cy="38%" r="72%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <clipPath id="aboutAvatarClip">
+      <circle cx="140" cy="140" r="90"/>
+    </clipPath>
+  </defs>
+
+  <!-- Navy panel -->
+  <circle cx="140" cy="140" r="136" fill="url(#aboutBg)"/>
+
+  <!-- Photo (circular crop) -->
+  <g clip-path="url(#aboutAvatarClip)">
+    <image
+      xlink:href="kavindu-profile.png"
+      href="kavindu-profile.png"
+      x="50"
+      y="50"
+      width="180"
+      height="180"
+      preserveAspectRatio="xMidYMid slice"
+    />
+  </g>
+
+  <!-- Face ring: fine dashed cyan -->
+  <circle
+    cx="140"
+    cy="140"
+    r="90"
+    fill="none"
+    stroke="#22d3ee"
+    stroke-width="1.75"
+    stroke-dasharray="4 7 12 7 3 7"
+    stroke-linecap="round"
+    opacity="0.95"
+  />
+
+  <!-- Outer HUD ring: longer segments -->
+  <circle
+    cx="140"
+    cy="140"
+    r="106"
+    fill="none"
+    stroke="#38bdf8"
+    stroke-width="2.25"
+    stroke-dasharray="18 12 6 12 24 12"
+    stroke-linecap="round"
+    opacity="0.92"
+  />
+
+  <!-- Accent ticks -->
+  <circle
+    cx="140"
+    cy="140"
+    r="118"
+    fill="none"
+    stroke="#67e8f9"
+    stroke-width="0.75"
+    stroke-dasharray="1 20"
+    stroke-linecap="round"
+    opacity="0.45"
+  />
+</svg>
