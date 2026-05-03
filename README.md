@@ -31,33 +31,42 @@
 
 ---
 
-## 🧑‍💻 &nbsp;About Me
+## About
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-production--grade%20web%20apps-6C63FF?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Internship-SLT%20%E2%80%94%20Digital%20Platforms-302b63?style=flat-square" alt="Sri Lanka Telecom internship" />
-  <img src="https://img.shields.io/badge/Education-SLIIT%20%7C%20BSc%20(Hons)%20IT-302b63?style=flat-square" alt="SLIIT" />
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineer%20roles-2d3748?style=flat-square" alt="Open to roles" />
+  <img src="https://img.shields.io/badge/Focus-production--grade%20apps-6C63FF?style=flat-square&labelColor=1a1b26" alt="Focus" />
+  <img src="https://img.shields.io/badge/Experience-SLT%20%E2%80%94%20Digital%20Platforms-302b63?style=flat-square&labelColor=1a1b26" alt="Sri Lanka Telecom" />
+  <img src="https://img.shields.io/badge/Education-SLIIT%20%7C%20BSc%20(Hons)%20IT-302b63?style=flat-square&labelColor=1a1b26" alt="SLIIT" />
+  <img src="https://img.shields.io/badge/Open%20roles-Software%20Engineer-2d3748?style=flat-square&labelColor=1a1b26" alt="Open roles" />
 </p>
 
-<sub><i>MERN · Next.js · TypeScript · REST APIs · Agile & CI/CD</i></sub>
+<sub><samp>MERN · Next.js · TypeScript · REST APIs · Agile · Git · CI/CD</samp></sub>
 
 <br/>
 
 <table>
 <tr>
-<td width="34%" align="center" valign="middle">
+<td width="31%" align="center" valign="top">
 
-<img src="assets/kavindu-profile.png" width="220" height="220" alt="Professional headshot of Kavindu Senarathna, full-stack developer" style="border-radius: 50%; object-fit: cover; border: 3px solid #302b63; display: block; margin: 0 auto;" />
+<img src="assets/kavindu-profile.png" width="200" height="200" alt="Kavindu Senarathna — Full-Stack Developer" style="border-radius: 50%; object-fit: cover; border: 2px solid #6C63FF; display: block; margin: 0 auto 16px auto;" />
+
+<p align="center"><strong>Kavindu Senarathna</strong><br>
+<sub><samp>Full-Stack Developer</samp><br>Sri Lanka 🇱🇰</sub></p>
 
 </td>
 <td valign="top" align="left">
 
-<h3>Professional profile</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Overview-professional%20profile-6C63FF?style=flat-square&labelColor=1a1b26" alt="Professional profile" />
+</p>
 
-<blockquote>
-<p>Results-driven <strong>Full-Stack Developer</strong> and Software Engineering graduate intern with hands-on experience building and shipping production-grade web applications. Completed a <strong>6-month Software Engineering internship at Sri Lanka Telecom (Digital Platforms)</strong>, contributing to real enterprise systems using modern full-stack technologies. Proficient in the <strong>MERN Stack</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Java</strong>, <strong>Python</strong>, and <strong>RESTful API</strong> development. Experienced with <strong>Agile/Scrum</strong> methodologies, <strong>Git</strong>-based version control, and <strong>CI/CD</strong> workflows. Pursuing <strong>BSc (Hons) in Information Technology at SLIIT</strong> (3rd Year, 2nd Semester). Seeking a <strong>Software Engineer</strong> or <strong>Associate Software Engineer</strong> role to deliver scalable, maintainable software solutions.</p>
-</blockquote>
+<p align="left">Results-driven <strong>Full-Stack Developer</strong> and Software Engineering graduate intern, building and shipping <strong>production-grade web applications</strong> with an emphasis on scalable architecture, clean delivery, and maintainable code.</p>
+
+<p align="left"><strong>Enterprise experience —</strong> Completed a <strong>6-month Software Engineering internship</strong> at <strong>Sri Lanka Telecom (Digital Platforms)</strong>, contributing to live digital platforms and internal systems using modern full-stack practices.</p>
+
+<p align="left"><strong>Technical breadth —</strong> Strong in the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Java</strong>, <strong>Python</strong>, and <strong>RESTful API</strong> design. Day-to-day work aligns with <strong>Agile/Scrum</strong>, <strong>Git</strong>-based collaboration, and <strong>CI/CD</strong> pipelines.</p>
+
+<p align="left"><strong>Education & direction —</strong> Pursuing <strong>BSc (Hons) in Information Technology at SLIIT</strong> (3rd Year, 2nd Semester). Targeting <strong>Software Engineer</strong> or <strong>Associate Software Engineer</strong> roles focused on reliable, end-to-end product delivery.</p>
 
 </td>
 </tr>
