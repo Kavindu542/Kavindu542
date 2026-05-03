@@ -44,33 +44,13 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="31%" align="center" valign="top">
+<img align="right" src="assets/kavindu-profile.png" width="200" height="200" alt="Kavindu Senarathna — Full-Stack Developer" style="border-radius: 50%; object-fit: cover; border: 2px solid #6C63FF; margin: 0 0 8px 20px;" />
 
-<img src="assets/kavindu-profile.png" width="200" height="200" alt="Kavindu Senarathna — Full-Stack Developer" style="border-radius: 50%; object-fit: cover; border: 2px solid #6C63FF; display: block; margin: 0 auto 16px auto;" />
+<p align="left"><sub><samp>PROFESSIONAL PROFILE</samp></sub></p>
 
-<p align="center"><strong>Kavindu Senarathna</strong><br>
-<sub><samp>Full-Stack Developer</samp><br>Sri Lanka 🇱🇰</sub></p>
+<p align="left">Results-driven <strong>Full-Stack Developer</strong> and Software Engineering graduate intern, building and shipping <strong>production-grade web applications</strong> with an emphasis on scalable architecture, clean delivery, and maintainable code. Completed a <strong>6-month Software Engineering internship</strong> at <strong>Sri Lanka Telecom (Digital Platforms)</strong>, contributing to live digital platforms and internal systems using modern full-stack practices. Strong in the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Java</strong>, <strong>Python</strong>, and <strong>RESTful API</strong> design, with day-to-day alignment to <strong>Agile/Scrum</strong>, <strong>Git</strong>-based collaboration, and <strong>CI/CD</strong> pipelines. Pursuing <strong>BSc (Hons) in Information Technology at SLIIT</strong> (3rd Year, 2nd Semester), targeting <strong>Software Engineer</strong> or <strong>Associate Software Engineer</strong> roles focused on reliable, end-to-end product delivery.</p>
 
-</td>
-<td valign="top" align="left">
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Overview-professional%20profile-6C63FF?style=flat-square&labelColor=1a1b26" alt="Professional profile" />
-</p>
-
-<p align="left">Results-driven <strong>Full-Stack Developer</strong> and Software Engineering graduate intern, building and shipping <strong>production-grade web applications</strong> with an emphasis on scalable architecture, clean delivery, and maintainable code.</p>
-
-<p align="left"><strong>Enterprise experience —</strong> Completed a <strong>6-month Software Engineering internship</strong> at <strong>Sri Lanka Telecom (Digital Platforms)</strong>, contributing to live digital platforms and internal systems using modern full-stack practices.</p>
-
-<p align="left"><strong>Technical breadth —</strong> Strong in the <strong>MERN stack</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Java</strong>, <strong>Python</strong>, and <strong>RESTful API</strong> design. Day-to-day work aligns with <strong>Agile/Scrum</strong>, <strong>Git</strong>-based collaboration, and <strong>CI/CD</strong> pipelines.</p>
-
-<p align="left"><strong>Education & direction —</strong> Pursuing <strong>BSc (Hons) in Information Technology at SLIIT</strong> (3rd Year, 2nd Semester). Targeting <strong>Software Engineer</strong> or <strong>Associate Software Engineer</strong> roles focused on reliable, end-to-end product delivery.</p>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
