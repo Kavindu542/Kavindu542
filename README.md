@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavindu%20Senarathna&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=a0a0c0&animation=twinkling" width="100%" />
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/kavindu-senarathna/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:kavindusena2002@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -27,10 +27,10 @@
 ## 🧑‍💻 &nbsp;About Me
 
 ```yaml
-name       : Kavindu Senarathna
-role       : Full-Stack Developer
-location   : Sri Lanka 🇱🇰
-education  : BSc Software Engineering (undergraduate)
+name: Kavindu Senarathna
+role: Full-Stack Developer
+location: Sri Lanka 🇱🇰
+education: BSc Software Engineering (undergraduate)
 
 focus:
   - Web & mobile application development
@@ -47,7 +47,7 @@ interests:
   - Full-stack JavaScript ecosystems
   - Open source contributions
 
-open_to    : Remote opportunities worldwide
+open_to: Remote opportunities worldwide
 ```
 
 <br clear="right"/>
@@ -125,14 +125,14 @@ open_to    : Remote opportunities worldwide
 
 <br/>
 
-| Project | Stack | Highlight |
-|---|---|---|
-| 🏥 **Hospital Management System** | JavaScript · Node.js · MySQL | Automated patient registration, appointments & real-time records |
-| 💰 **Finance Tracker App** | Kotlin · Android | Multi-currency (USD/EUR/GBP/INR), budget goals & spending analytics |
-| 🏨 **Hotel Reservation System** | JavaScript · Express | Full booking platform with admin panel for listings & management |
-| 📚 **Library Management System** | JavaScript | End-to-end library operations with clean, intuitive UI |
-| ✅ **MCQ Checker** | Vue.js | Smart automated answer checker for multiple-choice exams |
-| 🔤 **Transliteration Tests** | TypeScript | Language transliteration engine with test coverage |
+| Project                           | Stack                        | Highlight                                                           |
+| --------------------------------- | ---------------------------- | ------------------------------------------------------------------- |
+| 🏥 **Hospital Management System** | JavaScript · Node.js · MySQL | Automated patient registration, appointments & real-time records    |
+| 💰 **Finance Tracker App**        | Kotlin · Android             | Multi-currency (USD/EUR/GBP/INR), budget goals & spending analytics |
+| 🏨 **Hotel Reservation System**   | JavaScript · Express         | Full booking platform with admin panel for listings & management    |
+| 📚 **Library Management System**  | JavaScript                   | End-to-end library operations with clean, intuitive UI              |
+| ✅ **MCQ Checker**                | Vue.js                       | Smart automated answer checker for multiple-choice exams            |
+| 🔤 **Transliteration Tests**      | TypeScript                   | Language transliteration engine with test coverage                  |
 
 ---
 
