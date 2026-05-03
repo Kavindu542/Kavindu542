@@ -4,8 +4,6 @@
 
 <br/>
 
-### Kavindu Senarathna
-
 <sub><samp>Full-Stack Developer · MERN · Next.js · TypeScript · Sri Lanka 🇱🇰</samp></sub>
 
 <br/>
@@ -46,47 +44,24 @@
 
 <br/>
 
-<img align="right" src="assets/kavindu-profile.png" width="252" alt="Professional headshot of Kavindu Senarathna, full-stack developer" />
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
 
-### Quick snapshot
+<img src="assets/kavindu-profile.png" width="220" height="220" alt="Professional headshot of Kavindu Senarathna, full-stack developer" style="border-radius: 50%; object-fit: cover; border: 3px solid #302b63; display: block; margin: 0 auto;" />
 
-```yaml
-name: Kavindu Senarathna
-role: Full-Stack Developer
-location: Sri Lanka 🇱🇰
+</td>
+<td valign="top" align="left">
 
-education: BSc (Hons) Information Technology @ SLIIT (Year 3, Semester 2)
+<h3>Professional profile</h3>
 
-experience:
-  - Software Engineering Intern — Sri Lanka Telecom (Digital Platforms)
-  - 6 months · enterprise & production systems
+<blockquote>
+<p>Results-driven <strong>Full-Stack Developer</strong> and Software Engineering graduate intern with hands-on experience building and shipping production-grade web applications. Completed a <strong>6-month Software Engineering internship at Sri Lanka Telecom (Digital Platforms)</strong>, contributing to real enterprise systems using modern full-stack technologies. Proficient in the <strong>MERN Stack</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Java</strong>, <strong>Python</strong>, and <strong>RESTful API</strong> development. Experienced with <strong>Agile/Scrum</strong> methodologies, <strong>Git</strong>-based version control, and <strong>CI/CD</strong> workflows. Pursuing <strong>BSc (Hons) in Information Technology at SLIIT</strong> (3rd Year, 2nd Semester). Seeking a <strong>Software Engineer</strong> or <strong>Associate Software Engineer</strong> role to deliver scalable, maintainable software solutions.</p>
+</blockquote>
 
-stack:
-  - MERN · Next.js · TypeScript · Java · Python · REST APIs
-
-delivery: Agile/Scrum · Git · CI/CD
-
-focus:
-  - Production-grade web & mobile applications
-  - Scalable, maintainable systems
-  - Clean code & intuitive UX
-
-currently_learning:
-  - Advanced TypeScript patterns
-  - System design & architecture
-  - Cloud deployment (AWS / GCP)
-
-interests:
-  - Android (Kotlin) · Full-stack JS · Open source
-
-open_to: Software Engineer · Associate Software Engineer
-```
-
-<br clear="right"/>
-
-### Professional profile
-
-> Results-driven **Full-Stack Developer** and Software Engineering graduate intern with hands-on experience building and shipping production-grade web applications. Completed a **6-month Software Engineering internship at Sri Lanka Telecom (Digital Platforms)**, contributing to real enterprise systems using modern full-stack technologies. Proficient in the **MERN Stack**, **Next.js**, **TypeScript**, **Java**, **Python**, and **RESTful API** development. Experienced with **Agile/Scrum** methodologies, **Git**-based version control, and **CI/CD** workflows. Pursuing **BSc (Hons) in Information Technology at SLIIT** (3rd Year, 2nd Semester). Seeking a **Software Engineer** or **Associate Software Engineer** role to deliver scalable, maintainable software solutions.
+</td>
+</tr>
+</table>
 
 ---
 
