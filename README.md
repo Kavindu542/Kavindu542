@@ -1,128 +1,188 @@
-<p align="left" style="margin: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=krishanSKDA&label=Profile%20views&color=0e75b6&style=flat-square" alt="krishanSKDA_profileviews" width="10%" height="10%" />
-</p>
+<div align="center">
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavindu%20Senarathna&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=a0a0c0&animation=twinkling" width="100%" />
 
-# Hi there! I'm Krishan Danushka 👋🏼
-### AI/ML Engineer & Full-Stack Developer | Software Engineering Graduate
+<br/>
 
-<img align="right" src="developer.png" alt="Developer illustration" width="350" />
+<a href="https://github.com/Kavindu542">
+  <img src="https://komarev.com/ghpvc/?username=Kavindu542&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/kavindu-senarathna/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 🚀 About Me
+<br/><br/>
 
-- 🤖 **AI/ML Engineer** building LLM-powered apps, RAG pipelines, and agentic AI systems
-- 🦾 **Edge AI Specialist** — deploying models on Raspberry Pi, NVIDIA Jetson Orin Nano & DGX Spark
-- 🎓 **BEng (Hons) Software Engineering** graduate from Staffordshire University, England
-- 🧠 **Core focus:** Agentic AI, computer vision, MLOps pipelines, and intelligent full-stack platforms
-- 🛸 **Side interests:** FPV drones, photography, and stock trading on the Colombo Stock Exchange
-- 🎵 **Fun fact:** Love rap music and classic hits
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Kavindu+%F0%9F%91%8B;Full-Stack+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Building+systems+that+actually+matter;JavaScript+%7C+Kotlin+%7C+Vue+%7C+TypeScript" alt="Typing SVG" />
 
-## 🛠️ Tech Arsenal
+</div>
 
-### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+---
 
-### **LLM & Agentic AI**
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6B35.svg?style=for-the-badge&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 
-### **Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300A86B.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+## 🧑‍💻 &nbsp;About Me
 
-### **Frontend & Mobile**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+```yaml
+name       : Kavindu Senarathna
+role       : Full-Stack Developer
+location   : Sri Lanka 🇱🇰
+education  : BSc Software Engineering (undergraduate)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+focus:
+  - Web & mobile application development
+  - Building scalable, real-world systems
+  - Clean code & intuitive user experiences
 
-### **DevOps & MLOps**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+currently_learning:
+  - Advanced TypeScript patterns
+  - System design & architecture
+  - Cloud deployment (AWS / GCP)
 
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+interests:
+  - Android native development (Kotlin)
+  - Full-stack JavaScript ecosystems
+  - Open source contributions
 
-### **Tools & Practices**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+open_to    : Remote opportunities worldwide
+```
 
-## 🏆 Featured Projects
+<br clear="right"/>
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend & Mobile**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Kavindu542/Hospital-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu542&repo=Hospital-Management-System&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+<a href="https://github.com/Kavindu542/Finance-Tracker-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu542&repo=Finance-Tracker-App&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+<a href="https://github.com/Kavindu542/Hotel-Reservation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu542&repo=Hotel-Reservation&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+<a href="https://github.com/Kavindu542/MCQ-Checker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu542&repo=MCQ-Checker&theme=tokyonight&border_radius=10&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🛸 **Autonomous UAV Flight System** | MAVLink, PX4, ROS2, NVIDIA Jetson | Real-time telemetry & autonomous waypoint navigation |
-| 🤖 **Buddy AI Agent** | FastAPI, Flutter, React, WebSocket, Firebase | Production conversational AI with real-time STT |
-| 🐘 **HECGuard** | YOLOv8, Raspberry Pi 4, FastAPI, React Native | 93–94% mAP elephant detection  |
-| 🔍 **GeoIntel OSINT Platform** | CesiumJS, FastAPI, WebSocket | Real-time geospatial intelligence (Google Earth × Palantir) |
-| 🎨 **AI Criminal Sketch System** | ComfyUI, FastAPI, React, PostgreSQL | Forensic AI tool for suspect sketch generation |
-| ⚙️ **MLOps Pipeline** | Kubernetes, MLflow, ArgoCD, Prometheus/Grafana | Production-grade ML infrastructure on Minikube |
+| 🏥 **Hospital Management System** | JavaScript · Node.js · MySQL | Automated patient registration, appointments & real-time records |
+| 💰 **Finance Tracker App** | Kotlin · Android | Multi-currency (USD/EUR/GBP/INR), budget goals & spending analytics |
+| 🏨 **Hotel Reservation System** | JavaScript · Express | Full booking platform with admin panel for listings & management |
+| 📚 **Library Management System** | JavaScript | End-to-end library operations with clean, intuitive UI |
+| ✅ **MCQ Checker** | Vue.js | Smart automated answer checker for multiple-choice exams |
+| 🔤 **Transliteration Tests** | TypeScript | Language transliteration engine with test coverage |
 
-## 📊 GitHub Analytics
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=krishanSKDA&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" 
-        height="200" width="400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanSKDA&layout=compact&theme=dracula&hide_border=false" 
-        height="200" width="500" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🤝 Let's Connect!
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-danushka-aberathna/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://krishandanushka.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdanushka917@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavindu542&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu542&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindu542&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
-## ✨ Fun Contribution Snake
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishanSKDA/krishanSKDA/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishanSKDA/krishanSKDA/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/krishanSKDA/krishanSKDA/output/github-snake.svg" />
-</picture>
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavindu542&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" />
+</div>
+
+---
+
+## 📈 &nbsp;Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindu542&theme=tokyo-night&hide_border=true&radius=8" width="95%" />
+</div>
+
+---
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kavindu542/Kavindu542/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
 <div align="center">
-  <i>💡 "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb</i>
-  <br><br>
-  <b>Thanks for visiting! Let's build something amazing together! 🚀</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22&fontSize=14&fontColor=a0a0c0&fontAlignY=55&animation=twinkling" width="100%" />
+
+**Thanks for stopping by — let's build something great together** 🚀
+
 </div>
