@@ -2,14 +2,14 @@
 
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-<br/>
+## <br/>
 
 <a href="https://github.com/Kavindu542">
   <img src="https://komarev.com/ghpvc/?username=Kavindu542&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" />
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/kavindu-senarathna/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
+</a>
 <a href="mailto:kavindusena2002@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
