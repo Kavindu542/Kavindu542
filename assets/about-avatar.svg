@@ -13,11 +13,11 @@
   <!-- Navy panel -->
   <circle cx="140" cy="140" r="136" fill="url(#aboutBg)"/>
 
-  <!-- Photo (circular crop) -->
+  <!-- Photo: absolute URL so it loads when this SVG is used as <img> on GitHub (relative paths break). -->
   <g clip-path="url(#aboutAvatarClip)">
     <image
-      xlink:href="kavindu-profile.png"
-      href="kavindu-profile.png"
+      xlink:href="https://raw.githubusercontent.com/Kavindu542/Kavindu542/main/assets/kavindu-profile.png"
+      href="https://raw.githubusercontent.com/Kavindu542/Kavindu542/main/assets/kavindu-profile.png"
       x="50"
       y="50"
       width="180"
