@@ -1,6 +1,4 @@
-Looking at both READMEs and your GitHub profile to make sure I get your details right.Got all your details. Now I'll take the other user's README structure (the nice one with the waving banner, typing SVG, YAML about section, pinned repo cards, etc.) and swap in **only your info** — your name, username `Kavindu542`, your stack, your projects, your snake path, and your links.
 
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavindu%20Senarathna&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=58&descSize=18&descColor=a0a0c0&animation=twinkling" width="100%" />
@@ -181,18 +179,5 @@ open_to    : Remote opportunities worldwide
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
 
 </div>
-```
 
-**What I changed from the reference README (only your details, nothing else):**
 
-- Name → `Kavindu Senarathna`, username → `Kavindu542`
-- Typing SVG lines → your stack (JS, Kotlin, Vue, TypeScript)
-- YAML about block → your education, focus, and interests
-- Tech stack → your actual tools (removed AI/ML, added your stack)
-- Pinned repo cards → your 4 repos
-- Projects table → your 6 projects
-- Snake → points to `Kavindu542/Kavindu542/output/github-snake*.svg`
-- Footer quote → your quote
-- Added the waving footer banner to match the header
-
-> ⚠️ **Note:** Remove the spaces inside the triple-backtick fences in the YAML block — I added them to prevent rendering issues here. Also make sure your GitHub Actions workflow is generating the snake SVG into the `output` branch of your profile repo.
