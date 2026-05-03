@@ -1,41 +1,75 @@
 <div align="center">
 
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner.png" alt="GitHub profile banner — Kavindu Senarathna" width="100%" />
 
-## <br/>
+<br/>
 
-<a href="https://github.com/Kavindu542">
-  <img src="https://komarev.com/ghpvc/?username=Kavindu542&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" />
-</a>
-<a href="https://www.linkedin.com/in/kavindu-senarathna/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:kavindusena2002@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### Kavindu Senarathna
 
-<br/><br/>
+<sub><samp>Full-Stack Developer · MERN · Next.js · TypeScript · Sri Lanka 🇱🇰</samp></sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Kavindu+%F0%9F%91%8B;Full-Stack+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Building+systems+that+actually+matter;JavaScript+%7C+Kotlin+%7C+Vue+%7C+TypeScript" alt="Typing SVG" />
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Kavindu542" title="GitHub profile">
+    <img src="https://img.shields.io/badge/GitHub-Kavindu542-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kavindu-senarathna/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kavindusena2002@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Gmail-Say+hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Kavindu542" title="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=Kavindu542&style=for-the-badge&color=6C63FF&label=VIEWS" alt="Profile views" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=780&height=45&lines=Hey+there+%E2%80%94+welcome+to+my+GitHub+%F0%9F%91%8B;Full-Stack+Developer+%C2%B7+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;MERN+%7C+Next.js+%7C+TypeScript+%7C+REST+APIs;Shipping+production-ready%2C+maintainable+software;Agile+%7C+Git+%7C+CI%2FCD+%E2%80%94+from+idea+to+deploy" alt="Animated taglines" />
 
 </div>
 
 ---
 
-<img align="right" src="assets/kavindu-profile.png" width="280" alt="Professional headshot of Kavindu Senarathna, full-stack developer" />
-
 ## 🧑‍💻 &nbsp;About Me
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-production--grade%20web%20apps-6C63FF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Internship-SLT%20%E2%80%94%20Digital%20Platforms-302b63?style=flat-square" alt="Sri Lanka Telecom internship" />
+  <img src="https://img.shields.io/badge/Education-SLIIT%20%7C%20BSc%20(Hons)%20IT-302b63?style=flat-square" alt="SLIIT" />
+  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineer%20roles-2d3748?style=flat-square" alt="Open to roles" />
+</p>
+
+<sub><i>MERN · Next.js · TypeScript · REST APIs · Agile & CI/CD</i></sub>
+
+<br/>
+
+<img align="right" src="assets/kavindu-profile.png" width="252" alt="Professional headshot of Kavindu Senarathna, full-stack developer" />
+
+### Quick snapshot
 
 ```yaml
 name: Kavindu Senarathna
 role: Full-Stack Developer
 location: Sri Lanka 🇱🇰
-education: BSc Software Engineering (undergraduate)
+
+education: BSc (Hons) Information Technology @ SLIIT (Year 3, Semester 2)
+
+experience:
+  - Software Engineering Intern — Sri Lanka Telecom (Digital Platforms)
+  - 6 months · enterprise & production systems
+
+stack:
+  - MERN · Next.js · TypeScript · Java · Python · REST APIs
+
+delivery: Agile/Scrum · Git · CI/CD
 
 focus:
-  - Web & mobile application development
-  - Building scalable, real-world systems
-  - Clean code & intuitive user experiences
+  - Production-grade web & mobile applications
+  - Scalable, maintainable systems
+  - Clean code & intuitive UX
 
 currently_learning:
   - Advanced TypeScript patterns
@@ -43,14 +77,16 @@ currently_learning:
   - Cloud deployment (AWS / GCP)
 
 interests:
-  - Android native development (Kotlin)
-  - Full-stack JavaScript ecosystems
-  - Open source contributions
+  - Android (Kotlin) · Full-stack JS · Open source
 
-open_to: Remote opportunities worldwide
+open_to: Software Engineer · Associate Software Engineer
 ```
 
 <br clear="right"/>
+
+### Professional profile
+
+> Results-driven **Full-Stack Developer** and Software Engineering graduate intern with hands-on experience building and shipping production-grade web applications. Completed a **6-month Software Engineering internship at Sri Lanka Telecom (Digital Platforms)**, contributing to real enterprise systems using modern full-stack technologies. Proficient in the **MERN Stack**, **Next.js**, **TypeScript**, **Java**, **Python**, and **RESTful API** development. Experienced with **Agile/Scrum** methodologies, **Git**-based version control, and **CI/CD** workflows. Pursuing **BSc (Hons) in Information Technology at SLIIT** (3rd Year, 2nd Semester). Seeking a **Software Engineer** or **Associate Software Engineer** role to deliver scalable, maintainable software solutions.
 
 ---
 
