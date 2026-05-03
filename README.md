@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+<img align="right" src="assets/kavindu-profile.png" width="280" alt="Professional headshot of Kavindu Senarathna, full-stack developer" />
 
 ## 🧑‍💻 &nbsp;About Me
 
